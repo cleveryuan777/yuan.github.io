@@ -48,3 +48,5 @@ $z_1$表示的就是 thinking 的新的向量表示
 ![](img/05-7.png)
 
 ![](img/05-8.png)
+
+[Transformer、GPT、BERT，预训练语言模型的前世今生（目录） - 二十三岁的有德 - 博客园 (cnblogs.com)](https://www.cnblogs.com/nickchen121/p/15105048.html)

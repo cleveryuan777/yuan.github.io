@@ -49,3 +49,5 @@ multi-head attention（1231，23，3），把 X 切分成 8 块（8 个子空间
 ## 多头流程图
 
 ![](./img/07-4.jpg)
+
+[Transformer、GPT、BERT，预训练语言模型的前世今生（目录） - 二十三岁的有德 - 博客园 (cnblogs.com)](https://www.cnblogs.com/nickchen121/p/15105048.html)

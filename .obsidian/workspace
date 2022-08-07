@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-08-07-01-Word2Vec.md",
+            "file": "_posts/2022-08-07-06-Masked-Self-Attention.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-08-07-01-Word2Vec.md",
+                "file": "_posts/2022-08-07-06-Masked-Self-Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-08-07-01-Word2Vec.md",
+                "file": "_posts/2022-08-07-06-Masked-Self-Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-08-07-01-Word2Vec.md"
+                "file": "_posts/2022-08-07-06-Masked-Self-Attention.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "9c05a3e86cfe9d85",
   "lastOpenFiles": [
-    "_posts/2022-08-07-08-Transformer框架.md",
-    "_posts/2022-08-07-01-Word2Vec.md",
-    "_posts/2022-08-07-00-YUAN-First-Blog.md",
-    "_posts/2014-3-3-Hello-World.md",
-    "_posts/test.md.md",
     "_posts/2022-08-07-07-Multi-Head Self-Attention(多头自注意力).md",
-    "_posts/2022-08-07-06-Masked Self-Attention.md",
+    "_posts/2022-08-07-06-Masked-Self-Attention.md",
+    "_posts/2022-08-07-08-Transformer框架.md",
     "_posts/2022-08-07-05-Self-Attention(自注意力机制).md",
     "_posts/2022-08-07-04-Attention(注意力机制).md",
-    "_posts/2022-08-07-03-ELMO模型(双向LSTM解决词向量多意问题).md"
+    "_posts/2022-08-07-03-ELMO模型(双向LSTM解决词向量多意问题).md",
+    "_posts/2022-08-07-02-预训练模型的下游任务改造.md",
+    "_posts/2022-08-07-01-Word2Vec.md",
+    "_posts/2022-08-07-00-YUAN-First-Blog.md",
+    "_posts/2014-3-3-Hello-World.md"
   ]
 }

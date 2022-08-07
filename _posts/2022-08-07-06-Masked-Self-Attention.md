@@ -24,3 +24,5 @@ I have a dream
 ![](./img/06-1.png)
 掩码后 2
 ![](./img/07-1.png)
+
+[Transformer、GPT、BERT，预训练语言模型的前世今生（目录） - 二十三岁的有德 - 博客园 (cnblogs.com)](https://www.cnblogs.com/nickchen121/p/15105048.html)

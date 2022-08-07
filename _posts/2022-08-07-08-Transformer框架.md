@@ -62,7 +62,7 @@ FFN（Feed Forward）：w2(（w1x+b1）)+b2
 
 ![](./img/08-5.jpg)
 
-
+[Transformer、GPT、BERT，预训练语言模型的前世今生（目录） - 二十三岁的有德 - 博客园 (cnblogs.com)](https://www.cnblogs.com/nickchen121/p/15105048.html)
 
 ---
 
