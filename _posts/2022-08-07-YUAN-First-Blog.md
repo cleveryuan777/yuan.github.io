@@ -1,3 +1,3 @@
 # Hello. Welcome to my blog
 
-![_config.yml]({{ site.baseurl }}/images/y.png)
+![y.png]({{ site.baseurl }}/images/y.png)
