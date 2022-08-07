@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+与其背水一战
+不如继续摆烂
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+yuan
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cleveryuan777@gmail.com](mailto:cleveryuan777@gmail.com)
