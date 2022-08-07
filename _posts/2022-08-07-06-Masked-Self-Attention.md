@@ -16,7 +16,7 @@ I have a dream
 
 4. I have a dream
 
-5. I have a dream <eos>
+5. I have a dream [end]
 
 掩码自注意力机制应运而生
 
