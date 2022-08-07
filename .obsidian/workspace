@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a7e59a65399a4339",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5c5c48a821bb992",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-08-07-08-Transformer框架.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "447f7003d1dd30bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a294dce52248d710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32eb706cbd30cb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "02a86d2b898cee1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7eed94c890bf81be",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ddb9c84a3c9e4c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "20dadeba4a36742e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "740d6bcd9c9cbc43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-08-07-08-Transformer框架.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2066fc0e6f65c9bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2022-08-07-08-Transformer框架.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b5b5f412713b46d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32fc669a370b91d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2022-08-07-08-Transformer框架.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5c5c48a821bb992",
+  "lastOpenFiles": [
+    "_posts/2022-08-07-07-Multi-Head Self-Attention(多头自注意力).md",
+    "_posts/2022-08-07-06-Masked Self-Attention.md",
+    "_posts/2022-08-07-05-Self-Attention(自注意力机制).md",
+    "_posts/2022-08-07-04-Attention(注意力机制).md",
+    "_posts/2022-08-07-03-ELMO模型(双向LSTM解决词向量多意问题).md",
+    "_posts/2022-08-07-02-预训练模型的下游任务改造.md",
+    "_posts/2022-08-07-01-Word2Vec.md",
+    "_posts/2022-08-07-00-YUAN-First-Blog.md",
+    "_posts/2014-3-3-Hello-World.md",
+    "img/01-1.png.md"
+  ]
+}

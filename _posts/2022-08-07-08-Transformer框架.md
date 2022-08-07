@@ -21,7 +21,7 @@ seq2seq
 整体框架
 ====
 
-![](/img/08-1.jpg)
+![](./img/08-1.jpg)
 
 机器翻译流程（Transformer）
 ===================
@@ -34,7 +34,7 @@ seq2seq
 
 流程 1
 
-![](/img/08-2.jpg)
+![](./img/08-2.jpg)
 
 编码器和解码器
 
@@ -44,7 +44,7 @@ seq2seq
 
 流程 2
 
-![](/img/08-3.jpg)
+![](./img/08-3.jpg)
 
 Nx 的意思是，编码器里面又有 N 个小编码器（默认 N=6）
 
@@ -52,7 +52,7 @@ Nx 的意思是，编码器里面又有 N 个小编码器（默认 N=6）
 
 流程 3
 
-![](/img/08-4.jpg)
+![](./img/08-4.jpg)
 
 说了这么多，了解 Transformer 就是了解 Transformer 里的小的编码器（Encoder）和小的解码器（Decoder）
 
@@ -60,7 +60,7 @@ FFN（Feed Forward）：w2(（w1x+b1）)+b2
 
 流程 4
 
-![](/img/08-5.jpg)
+![](./img/08-5.jpg)
 
 
 
