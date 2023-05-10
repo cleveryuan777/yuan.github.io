@@ -8,11 +8,11 @@ $Z$ 相比较 $X$有了提升，通过 Multi-Head Self-Attention，得到的 $Z
 
 什么是多头
 
-![](./img/07-1.png)
+![](../img/07-1.png)
 
 如何多头 1
 
-![](./img/07-2.jpg)
+![](../img/07-2.jpg)
 
 对于 X，我们不是说，直接拿 X 去得到 Z，而是把 X 分成了 8 块（8 头），得到 Z0-Z7
 
@@ -20,7 +20,7 @@ $Z$ 相比较 $X$有了提升，通过 Multi-Head Self-Attention，得到的 $Z
 
 然后把 Z0-Z7 拼接起来，再做一次线性变换（改变维度）得到 Z
 
-![](./img/07-3.jpg)
+![](../img/07-3.jpg)
 
 有什么作用？
 
@@ -48,6 +48,6 @@ multi-head attention（1231，23，3），把 X 切分成 8 块（8 个子空间
 
 ## 多头流程图
 
-![](./img/07-4.jpg)
+![](../img/07-4.jpg)
 
 [Transformer、GPT、BERT，预训练语言模型的前世今生（目录） - 二十三岁的有德 - 博客园 (cnblogs.com)](https://www.cnblogs.com/nickchen121/p/15105048.html)
